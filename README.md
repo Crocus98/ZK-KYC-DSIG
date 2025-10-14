@@ -2,6 +2,8 @@
 
 ## **ZK-KYC-DSIG: An eIDAS2 Compliant Privacy Preserving Identity Verification Framework via Zero Knowledge Proof and Digital Signature**
 
+A detailed description of the project can be found in the docs folder.
+
 ---
 
 ## Requirements:
